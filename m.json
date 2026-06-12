@@ -1,45 +1,88 @@
 [
   {
-    "id": "wa_1781267327361",
+    "id": "wa_1001",
     "type": "whatsapp",
-    "title": "kk story",
-    "category": "Funny",
-    "views": "1.5k views",
+    "title": "Mom Catches Me Lying",
+    "category": "Family",
+    "views": "12.4k",
     "published": true,
-    "createdAt": "2026-06-12T12:28:47.361Z",
-    "chat": {
-      "name": "pppppppppppppp"
-      "avatar": "M",
-      "status": "online",
-      "theme": "dark",
-      "dateLabel": "Today",
-      "background": {
-        "type": "pattern",
-        "url": ""
-      },
-      "audio": {
-        "url": "",
-        "autoplay": true
-      }
-    },
+    "date": "Today",
+    "contactName": "Dad ❤️",
+    "contactAvatar": "M",
+    "contactAvatarImg": "",
+    "status": "online",
+    "wallpaperImg": "",
     "messages": [
       {
-        "id": "3br8cfg",
-        "type": "text",
         "sender": "in",
-        "text": "Did you take the chicken out?",
+        "text": "Did you take the chicken out of the freezer?",
         "time": "14:30",
-        "ticks": "none",
-        "delay": 1000
+        "ticks": "double"
       },
       {
-        "id": "yjumjsu",
-        "type": "text",
         "sender": "out",
-        "text": "Yes, why?",
+        "text": "Yes 😭",
         "time": "14:32",
+        "ticks": "blue"
+      },
+      {
+        "sender": "in",
+        "text": "Then why is it still in here",
+        "time": "14:33",
+        "ticks": "double"
+      },
+      {
+        "sender": "out",
+        "text": "...",
+        "time": "14:33",
         "ticks": "blue",
-        "delay": 2000
+        "emojiOnly": false
+      }
+    ]
+  },
+  {
+    "id": "img_2001",
+    "type": "image",
+    "title": "When the WiFi Goes Down",
+    "category": "Funny",
+    "views": "8.7k",
+    "published": true,
+    "date": "Yesterday",
+    "imageUrl": "https://example.com/images/wifi-meme.jpg"
+  },
+  {
+    "id": "wa_1002",
+    "type": "whatsapp",
+    "title": "Boss Texts at 11PM",
+    "category": "Office",
+    "views": "5.1k",
+    "published": true,
+    "date": "2 days ago",
+    "contactName": "Boss",
+    "contactAvatar": "B",
+    "contactAvatarImg": "",
+    "status": "online",
+    "wallpaperImg": "",
+    "messages": [
+      {
+        "sender": "in",
+        "text": "Are you up?",
+        "time": "23:05",
+        "ticks": "double"
+      },
+      {
+        "sender": "in",
+        "text": "Need this report by tomorrow 9am",
+        "time": "23:06",
+        "ticks": "double",
+        "forwarded": true
+      },
+      {
+        "sender": "out",
+        "text": "Sure, on it!",
+        "time": "23:10",
+        "ticks": "blue",
+        "reply": "Need this report by tomorrow 9am"
       }
     ]
   }
