@@ -1,0 +1,5 @@
+{
+  "updatedAt": "2026-06-13T...",
+  "sheets": { "id": "...", "tab": "Memes" },
+  "github": { "owner": "...", "repo": "...", "branch": "main", "path": "m.json", "dataPath": "data.json", "autoSync": true }
+}
